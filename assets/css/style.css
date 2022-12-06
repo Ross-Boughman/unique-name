@@ -24,7 +24,7 @@ header h1 #seo {
     color: #d9dcd6;
 }
 
-header nav {
+header nav { /* jump links */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -100,15 +100,6 @@ article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-#search-engine-optimization { /* nav links jump to these */
-}
-
-#online-reputation-management { /* nav links jump to these */ 
-}
-
-#social-media-marketing { /* nav links jump to these */
 }
 
 content img {
